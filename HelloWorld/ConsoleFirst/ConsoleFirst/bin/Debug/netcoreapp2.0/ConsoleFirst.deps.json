@@ -1,0 +1,38 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "38099b31d5e4879d1ac099be0540a1b7a19418d0"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleFirst/1.0.0": {
+        "dependencies": {
+          "FluentScheduler": "5.3.0"
+        },
+        "runtime": {
+          "ConsoleFirst.dll": {}
+        }
+      },
+      "FluentScheduler/5.3.0": {
+        "runtime": {
+          "lib/netstandard1.4/FluentScheduler.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleFirst/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentScheduler/5.3.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-XBLwqw3FFdkG6qIrxg7M9mIsigZje+qKTinWZWfyr47IN6O/0z6fFUoQCVEBvY0lk1puf4hU0VnVhN/kPNZL+A==",
+      "path": "fluentscheduler/5.3.0",
+      "hashPath": "fluentscheduler.5.3.0.nupkg.sha512"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.deps.json
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.runtimeconfig.json
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.runtimeconfig.dev.json
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.dll
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\bin\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.pdb
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.csprojResolveAssemblyReference.cache
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.csproj.CoreCompileInputs.cache
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.AssemblyInfoInputs.cache
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.AssemblyInfo.cs
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.dll
+E:\GitHub\Redemption\HelloWorld\ConsoleFirst\ConsoleFirst\obj\Debug\netcoreapp2.0\FluentSchedulerConsoleFirst.pdb
